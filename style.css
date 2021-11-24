@@ -237,10 +237,16 @@ button{
 }
 .button__cotizar{
     margin: 25px auto;
-    background-color:#006DCC;
+    background-color:#FF5E0D;
     width: 150px;
     height: 60px;
+    border-radius: 10px;
 }
+.button__cotizar a{
+    color: white;
+    text-decoration: none;
+}
+
 section {
     margin: 15px;
     display: flex;
